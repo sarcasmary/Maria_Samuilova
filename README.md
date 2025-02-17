@@ -7,7 +7,7 @@
 Я начинающий QA Engineer. Здесь я хочу поделиться своими тестовыми артефактами, которые были созданы в ходе прохождения обучения.
 
 ### 📫 Как связаться со мной: 
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sarcasmary@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarcasmary@gmail.com)
 - [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mary_Samuilova)
 
 ---
