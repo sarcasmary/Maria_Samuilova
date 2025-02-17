@@ -14,7 +14,7 @@
 
 ### 📁 Тестовые артефакты:
 - [Теория тестирования](https://github.com/sarcasmary/theory)
-- [Тест-дизайн и докуменация](https://github.com/sarcasmary/design)
+- [Тест-дизайн](https://github.com/sarcasmary/design)
 - [Тестовая документация](https://github.com/sarcasmary/docs)
 - [Тестирование веб-приложения](https://github.com/sarcasmary/web)
 - [Тестирование API](https://github.com/sarcasmary/api)
